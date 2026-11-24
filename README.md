@@ -54,7 +54,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/khdxsohee/Lumina-Lab-Management-Platform.git
+   git clone https://github.com/farhan-swe/Lumina-Lab-Management-Platform.git
    cd Lumina-Lab-Management-Platform
    ```
 
@@ -97,7 +97,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## ✉️ Contact
 
-Project Link: [https://github.com/khdxsohee/Lumina-Lab-Management-Platform](https://github.com/khdxsohee/Lumina-Lab-Management-Platform)
+Project Link: [https://github.com/farhan-swe/Lumina-Lab-Management-Platform](https://github.com/farhan-swe/Lumina-Lab-Management-Platform)
 
 ---
 *Built with ❤️ for the medical community.*
